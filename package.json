@@ -1,0 +1,20 @@
+{
+  "name": "@cirrusct/mst-big",
+  "description": "MST",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "repository": "https://github.com/CirrusCT/mts.git",
+  "scripts": {
+    "build": "npm run clean && tsc",
+    "clean": "rimraf -- dist"
+  },
+  "dependencies": {
+    "mobx": "^5.5.0",
+    "mobx-state-tree": "^3.5.0",
+    "tslib": "^1.9.3"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.2"
+  }
+}

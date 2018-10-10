@@ -1,0 +1,1 @@
+{"version":3,"file":"apiRequestConfig.js","sourceRoot":"","sources":["../../../src/api/stores/apiRequestConfig.ts"],"names":[],"mappings":";;AAAA,mDAAgG;AAKnF,QAAA,qBAAqB,GAAG,uBAAC,CAAC,KAAK,CAAC,kBAAkB,EAAE;IAC7D,EAAE,EAAE,uBAAC,CAAC,MAAM;IACZ,GAAG,EAAE,uBAAC,CAAC,MAAM;IACb,OAAO,EAAE,uBAAC,CAAC,MAAM;IACjB,MAAM,EAAE,uBAAC,CAAC,MAAM;CACnB,CAAC,CAAC"}
